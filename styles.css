@@ -63,7 +63,7 @@ img{
     margin-top: 5%;
     margin-left: 2.5%;
     flex: none;
-    background-color: white;
+    background-color: rgb(247, 247, 247);
     text-align: center;
 }
 
@@ -84,7 +84,7 @@ img{
     color: rgb(255,255,255);
     font-size: 25px;
     height: 50%;
-    background-color: #ec3750;
+    background-color: #111827;
     padding: 10%;
 }
 
@@ -96,7 +96,7 @@ img{
         margin-top: 5%;
         margin-left: 2.5%;
         flex: none;
-        background-color: rgb(245, 245, 245);
+        background-color: rgb(255, 255, 255);
         text-align: center;
     } 
 }
